@@ -1,0 +1,375 @@
+[{"name":"Indian Institute of Technology, Madras","id":["922","1093","11726","12152","13642","13709","1336100"]},
+{"name":"Indian Institute of Technology, Mumbai","id":[1654]},
+{"name":"Indian Institute of Technology, Kharagpur","id":[818]},
+{"name":"Indian Institute of Technology, New Delhi","id":[1066,1250,1729,5776,1301664,1302336,1302341,1323092,2304857,2425871]},
+{"name":"Jawaharlal Nehru University, New Delhi","id":[ 1307,1654,3184,5567,9826,11773,13414,14326,14793,15391,1369870,2318299]},
+{"name":"Indian Institute of Technology, Kanpur","id":[ ]},
+{"name":"Indian Institute of Technology, Guwahati","id":[]},
+{"name":"Indian Institute of Technology, Roorkee","id":[]},
+{"name":"Banaras Hindu University, Varanasi","id":[]},
+{"name":"Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru","id":[]},
+{"name":"Jadavpur University, Kolkata","id":[]},
+{"name":"Anna University, Chennai","id":[]},
+{"name":"University of Hyderabad, Hyderabad","id":[]},
+{"name":"University of Delhi, Delhi","id":[]},
+{"name":"Amrita Vishwa Vidyapeetham, Coimbatore","id":[]},
+{"name":"Indian Institute of Management, Ahmedabad","id":[]},
+{"name":"Savitribai Phule Pune University, Pune","id":[]},
+{"name":"Aligarh Muslim University, Aligarh","id":[]},
+{"name":"Jamia Millia Islamia, New Delhi","id":[]},
+{"name":"Birla Institute of Technology & Science, Pilani","id":[]},
+{"name":"Vellore Institute of Technology, Vellore","id":[]},
+{"name":"Indian Agricultural Research Institute, New Delhi","id":[]},
+{"name":"Indian Institute of Technology, Indore","id":[]},
+{"name":"Indian Institute of Management, Bengaluru","id":[]},
+{"name":"Indian Institute of Technology, Hyderabad","id":[]},
+{"name":"Calcutta University, Kolkata","id":[]},
+{"name":"Tamil Nadu Agricultural University, Coimbatore","id":[]},
+{"name":"Indian Institute of Science Education & Research, Pune","id":[]},
+{"name":"Manipal Academy of Higher Education, Manipal","id":[]},
+{"name":"Visva Bharati, Kolkata","id":[]},
+{"name":"Indian Institute of Technology, Rupnagar","id":[]},
+{"name":"Siksha`O` Anusandhan University, Bhubaneswar","id":[]},
+{"name":"National Institute of Technology, Tiruchirappalli","id":[]},
+{"name":"Homi Bhabha National Institute, Mumbai","id":[]},
+{"name":"Bharath Institute of Higher Education & Research, Chennai","id":[]},
+{"name":"Indian Institute of Technology, Mandi","id":[]},
+{"name":"Osmania University, Hyderabad","id":[]},
+{"name":"Indian Institute of Management, Kolkata","id":[]},
+{"name":"Punjab Agricultural University, Ludhiana","id":[]},
+{"name":"Institute of Chemical Technology, Mumbai","id":[]},
+{"name":"Jamia Hamdard, New Delhi","id":[]},
+{"name":"Gauhati University, Guwahati","id":[]},
+{"name":"Indian Institute of Science Education & Research, Mohanpur","id":[]},
+{"name":"Bharathiar University, Coimbatore","id":[]},
+{"name":"National Institute of Technology, Rourkela","id":[]},
+{"name":"Kerala University, Thiruvananthapuram","id":[]},
+{"name":"Tezpur University, Tezpur","id":[]},
+{"name":"Tata Institute of Social Sciences, Mumbai","id":[]},
+{"name":"Shanmugha Arts Science Technology & Research Academy (SASTRA), Thanjavur","id":[]},
+{"name":"Indian Institute of Management, Lucknow","id":[]},
+{"name":"Indian Institute of Science Education & Research, Mohali","id":[]},
+{"name":"Indian Institute of Technology (Indian School of Mines), Dhanbad","id":[]},
+{"name":"Panjab University, Chandigarh","id":[]},
+{"name":"S.R.M Institute of Science and Technology, Chennai","id":[]},
+{"name":"Indian Institute of Space Science and Technology, Thiruvananthapuram","id":[]},
+{"name":"Mysore University, Mysore","id":[]},
+{"name":"National Institute of Pharmaceutical Education and Research, Hyderabad","id":[]},
+{"name":"Pondicherry University, Puducherry","id":[]},
+{"name":"Tamil Nadu Veterinary & Animal Sciences University, Chennai","id":[]},
+{"name":"Sri Ramachandra University, Chennai","id":[]},
+{"name":"Anand Agricultural University, Anand","id":[]},
+{"name":"Indian Institute of Management, Udaipur","id":[]},
+{"name":"University of Madras, Chennai","id":[]},
+{"name":"National Institute of Technology, Surathkal","id":[]},
+{"name":"Indian Institute of Technology, Bhubaneswar","id":[]},
+{"name":"Indian Institute of Management, Tiruchirappalli","id":[]},
+{"name":"Sri Venkateswara University, Tirupati","id":[]},
+{"name":"Andhra University, Visakhapatnam","id":[]},
+{"name":"Indian Institute of Technology, Varanasi","id":[]},
+{"name":"Indian Institute of Management, Kashipur","id":[]},
+{"name":"Sathyabama Institute of Science and Technology, Chennai","id":[]},
+{"name":"Indian Institute of Engineering Science and Technology, Howrah","id":[]},
+{"name":"Jagadguru Sri Shivarathreeshwara University, Mysore","id":[]},
+{"name":"Thapar University, Patiala","id":[]},
+{"name":"Dr. D. Y. Patil Vidyapeeth, Pune","id":[]},
+{"name":"North Eastern Hill University, Shillong","id":[]},
+{"name":"Indian Institute of Technology, Ahmedabad","id":[]},
+{"name":"Kalinga Institute of Industrial Technology, Bhubaneswar","id":[]},
+{"name":"Sri Sivasubrmaniya Nadar College of Engineering, Kalavakkam","id":[]},
+{"name":"Guru Angad Dev Veterinary & Animal Sciences University, Ludhiana","id":[]},
+{"name":"National Institute of Technology, Warangal","id":[]},
+{"name":"Indian Institute of Technology, Patna","id":[]},
+{"name":"Dr. Y.S.Parmar University of Horticulture & Forestry, Solan","id":[]},
+{"name":"Indian Institute of Management, Kozhikode","id":[]},
+{"name":"AMITY University, Gautam Budh Nagar","id":[]},
+{"name":"Indian Institute of Crop Processing Technology, Thanjavur","id":[]},
+{"name":"PSG College of Technology, Coimbatore","id":[]},
+{"name":"Banasthali Vidyapith, Banasthali","id":[]},
+{"name":"Bharati Vidyapeeth, Pune","id":[]},
+{"name":"Saveetha Institute of Medical and Technical Sciences, Chennai","id":[]},
+{"name":"Annamalai University, Annamalainagar","id":[]},
+{"name":"Calicut University, Calicut","id":[]},
+{"name":"Mizoram University, Aizwal","id":[]},
+{"name":"Kurukshetra University, Kurushetra","id":[]},
+{"name":"Shiv Nadar University, Chithera","id":[]},
+{"name":"Symbiosis International University, Pune","id":[]},
+{"name":"Indian Institute of Science Education & Research, Bhopal","id":[]},
+{"name":"Rajiv Gandhi Indian Institute of Management, Shillong","id":[]},
+{"name":"KLE Academy of Higher Education and Research, Belagavi ","id":[]}]
+
+
+
+{"name":"College of Engineering, Pune","id":[],}
+{"name":"Birla Institute of Technology, Ranchi","id":[],}
+{"name":"National Institute of Industrial Engineering, Mumbai","id":[],}
+{"name":"Thiagarajar College of Engineering, Madurai","id":[],}
+{"name":"Pondicherry Engineering College, Puducherry","id":[],}
+{"name":"Delhi Technological University, New Delhi","id":[],}
+{"name":"Zakir Husain College of Engineering & Technology, Aligarh","id":[],}
+{"name":"Motilal Nehru National Institute of Technology, Allahabad","id":[],}
+{"name":"Visvesvaraya National Institute of Technology, Nagpur","id":[],}
+{"name":"Manipal Institute of Technology, Manipal","id":[],}
+{"name":"National Institute of Technology, Calicut","id":[],}
+{"name":"M. S. Ramaiah Institute of Technology, Bengaluru","id":[],}
+{"name":"Kalinga Institute of Industrial Technology, Bhubneshwar","id":[],}
+{"name":"R.V. College of Engineering, Bengaluru","id":[],}
+{"name":"Sardar Vallabhbhai National Institute of Technology, Surat","id":[],}
+{"name":"Coimbatore Institute of Technology, Coimbatore","id":[],}
+{"name":"B.M.S. College of Engineering, Bengaluru","id":[],}
+{"name":"National Institute of Technology, Silchar","id":[],}
+{"name":"Jaypee Institute of Information Technology, Noida","id":[],}
+{"name":"National Institute of Technology, Durgapur","id":[],}
+{"name":"Indraprastha Institute of Information Technology, New Delhi","id":[],}
+{"name":"Kongu Engineering College, Perundurai","id":[],}
+{"name":"Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology, Chennai","id":[],}
+{"name":"National Institute of Technology, Hamirpur","id":[],}
+{"name":"National Institute of Technology, Kurukshetra","id":[],}
+{"name":"Maulana Azad National Institute of Technology, Bhopal","id":[],}
+{"name":"Karunya Institute of Technology and Sciences, Coimbatore","id":[],}
+{"name":"Jawaharlal Nehru Technological University, Hyderabad","id":[],}
+{"name":"Shri Ramdeobaba College of Engineering and Management, Nagpur","id":[],}
+{"name":"Indian Institute of Technology, Jodhpur","id":[],}
+{"name":"Bharati Vidyapeeth Deemed University College of Engineering, Pune","id":[],}
+{"name":"G. H. Raisoni College of Engineering, Nagpur","id":[],}
+{"name":"Koneru Lakshmaiah Education Foundation University, Vaddeswaram","id":[],}
+{"name":"Indian Institute of Information Technology, Jabalpur","id":[],}
+{"name":"Malaviya National Institute of Technology, Jaipur","id":[],}
+{"name":"Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar","id":[],}
+{"name":"Siddaganga Institute of Technology, Tumkur","id":[],}
+{"name":"Mepco Schlenk Engineering College, Sivakasi","id":[],}
+{"name":"Guru Gobind Singh Indraprastha University, Dwarka","id":[],}
+{"name":"International Institute of Information Technology, Hyderabad","id":[],}
+{"name":"The Maharaja Sayajirao University of Baroda, Vadodara","id":[],}
+{"name":"Army Institute of Technology, Pune","id":[],}
+{"name":"PSNA College of Engineering and Technology, Dindigul","id":[],}
+{"name":"Nirma University, Ahmedabad","id":[],}
+{"name":"University College of Engineering, Hyderabad","id":[],}
+{"name":"Sagi Ramakrishnam Raju Engineering College, Bhimavaram","id":[],}
+{"name":"Kumaraguru College of Technology, Coimbatore","id":[],}
+{"name":"Jaypee University of Information Technology, Solan","id":[],}
+{"name":"R.M.K. Engineering College, Kavaraipettai","id":[],}
+{"name":"Punjab Engineering College, Chandigarh","id":[],}
+{"name":"PES University, Bengaluru","id":[],}
+{"name":"National Institute of Technology, Manipur","id":[],}
+{"name":"Vignan's Foundation for Science Technology and Research, Guntur","id":[],}
+{"name":"B.S. Abdur Rahman Institute of Science and Technology, Chennai","id":[],}
+{"name":"Chaitanya Bharathi Institute of Technology, Hyderabad","id":[],}
+{"name":"Saveetha Engineering College, Sriperumbudur","id":[],}
+{"name":"C.V. Raman College of Engineering, Bhubneshwar","id":[],}
+{"name":"College of Engineering, Thiruvananthapuram","id":[],}
+{"name":"Maharashtra Institute of Technology, Pune","id":[],}
+{"name":"BMS Institute of Technology & Management, Bengaluru","id":[],}
+{"name":"Sri Sai Ram Engineering College, Chennai","id":[],}
+{"name":"ST. Joseph's College of Engineering, Chennai","id":[],}
+{"name":"K.S.Rangasamy College of Technology, Tiruchengode","id":[],}
+{"name":"National Institute of Technology, Shillong","id":[],}
+
+
+{"name":"Xavier Labour Relations Institute, Jamshedpur","id":[],}
+{"name":"Indian Institute of Management, Indore","id":[],}
+{"name":"Indian Institute of Management, Raipur","id":[],}
+{"name":"Management Development Institute, Gurgaon","id":[],}
+{"name":"S. P. Jain Institute of Management & Research, Mumbai","id":[],}
+{"name":"Indian Institute of Management, Rohtak","id":[],}
+{"name":"Institute of Management Technology, Ghaziabad, Ghaziabad","id":[],}
+{"name":"Indian Institute of Management Ranchi, Ranchi","id":[],}
+{"name":"International Management Institute, New Delhi","id":[],}
+{"name":"Institute of Rural Management, Anand","id":[],}
+{"name":"Indian Institute of Foreign Trade, New Delhi","id":[],}
+{"name":"Indian Institute of Forest Management, Bhopal","id":[],}
+{"name":"Xavier University, Bhuabaneswar","id":[],}
+{"name":"Narsee Monjee Institute of Management Studies, Mumbai","id":[],}
+{"name":"Fore School of Management, New Delhi","id":[],}
+{"name":"Goa Institute of Management, Sattari","id":[],}
+{"name":"Institute for Financial Management and Research, Satyavedu","id":[],}
+{"name":"Bharati Vidyapeethes Institute of Management and Entrepreneurship Development, Pune","id":[],}
+{"name":"K.J. Somaiya Institute of Management Studies & Reserach, Mumbai","id":[],}
+{"name":"Sri Krishna College of Engineering and Technology, Coimbatore","id":[],}
+{"name":"Jaipuria Institute of Management, Noida","id":[],}
+{"name":"SASTRA, Thanjavur","id":[],}
+{"name":"Birla Institute of Management Technology, Greater Noida","id":[],}
+{"name":"Prin. L.N. Welingkar Institute of Management Development & Research, Mumbai","id":[],}
+{"name":"MIT School of Telecom Management, Pune","id":[],}
+{"name":"Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior","id":[],}
+{"name":"International Management Institute, Kolkata, Kolkata","id":[],}
+{"name":"Xavier Institute of Management & Entrepreneurship, Bengaluru","id":[],}
+
+
+{"name":"Indian Institute of Science, Bengaluru","id":[],}
+{"name":"Indian Institute of Space Science and Technology, Thiruvananthapuram","id":[],}
+{"name":"Mysore University, Mysore","id":[],}
+{"name":"University of Jammu, Jammu Tawi","id":[],}
+{"name":"Goa University, Goa","id":[],}
+{"name":"Kalyani University, Kalyani","id":[],}
+{"name":"Mahatma Gandhi Unversity, Kottayam","id":[],}
+{"name":"Rajasthan University of Veterinary & Animal Sciences, Bikaner","id":[],}
+{"name":"Sri Sathya Sai Institute of Higher Learning, Anantapur","id":[],}
+{"name":"Meenakshi Academy of Higher Education and Research, Chennai","id":[],}
+{"name":"Dayalbagh Educational Institute, Agra","id":[],}
+{"name":"University of Kashmir, Srinagar","id":[],}
+{"name":"Dibrugarh University, Dibrugarh","id":[],}
+{"name":"Rajiv Gandhi University, Rono Hills","id":[],}
+{"name":"Madurai Kamraj University, Madurai","id":[],}
+{"name":"Sri Venkateswara Veterinary University, Tirupati","id":[],}
+{"name":"Rajasthan University, Jaipur","id":[],}
+{"name":"Guru Nanak Dev University, Amritsar","id":[],}
+{"name":"Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus, Puducherry","id":[],}
+{"name":"Nitte University, Mangalore","id":[],}
+{"name":"Periyar University, Salem","id":[],}
+{"name":"Cochin University of Science and Technology, Cochin","id":[],}
+{"name":"Vidyasagar University, Midnapore","id":[],}
+{"name":"Bharathidasan University, Tiruchirappalli","id":[],}
+{"name":"Gandhi Institute of Technology and Management (GITAM), Visakhapatnam","id":[],}
+{"name":"Karpagam Academy of Higher Education, Coimbatore ","id":[],}
+{"name":"The Gandhigram Rural Institute, Gandhigram","id":[],}
+{"name":"Assam University, Silchar ","id":[],}
+{"name":"University of Allahabad, Allahabad","id":[],}
+{"name":"Sri Krishnadevaraya University, Anantapur","id":[],}
+{"name":"Alagappa University, Karaikudi","id":[],}
+{"name":"Jawaharlal Nehru Technological University, Kakinada","id":[],}
+
+
+{"name":"Miranda House, Delhi","id":[],}
+{"name":"Loyola College, Chennai","id":[],}
+{"name":"Shri Ram College of Commerce, Delhi","id":[],}
+{"name":"Bishop Heber College, Tiruchirapalli","id":[],}
+{"name":"Atma Ram Sanatan Dharma College, New Delhi","id":[],}
+{"name":"St. Xavier`s College, Kolkata","id":[],}
+{"name":"Lady Shri Ram College for Women, New Delhi","id":[],}
+{"name":"Dyal Singh College, New Delhi","id":[],}
+{"name":"Deen Dayal Upadhyaya College, New Delhi","id":[],}
+{"name":"The Women's Christian College, Chennai","id":[],}
+{"name":"P.S.G. College of Arts & Science, Coimbatore","id":[],}
+{"name":"Madras Christian College, Kancheepuram","id":[],}
+{"name":"Ayya Nadar Janaki Ammal College, Virudhnagar","id":[],}
+{"name":"P.S.G.R. Krishnammal College for Women, Coimbatore","id":[],}
+{"name":"Keshav Mahavidyalya, Delhi","id":[],}
+{"name":"Ethiraj College for Women, Chennai","id":[],}
+{"name":"Christ College, Thrissur","id":[],}
+{"name":"Loreto College, Calcutta","id":[],}
+{"name":"Kongunadu Arts & Science College, Coimbatore","id":[],}
+{"name":"Acharya Narendra Dev College, Kalkaji","id":[],}
+{"name":"AU College of Science and Technology, Visakhapatnam","id":[],}
+{"name":"Sri Krishna Arts and Science College, Coimbatore","id":[],}
+{"name":"AU College of Arts and Commerce, Visakhapatnam","id":[],}
+{"name":"Andhra Loyola College, Vijayawada","id":[],}
+{"name":"Rajagiri College of Social Sciences, Ernakulam","id":[],}
+{"name":"Holy Cross College, Tiruchirapalli","id":[],}
+{"name":"Fatima College ,Madurai","id":[],}
+{"name":"Sacred Heart College,Ernakulam","id":[],}
+{"name":"St. Joseph`s College of Commerce,Bengaluru","id":[],}
+{"name":"Rajiv Gandhi Institute of Information Technology and Biotechnology (RGIITBT),Pune","id":[],}
+{"name":"St. Joseph's College, Calicut","id":[],}
+{"name":"Post Graduate Government College for Girls, Chandigarh","id":[],}
+{"name":"Ramanujan College, Kalkaji","id":[],}
+{"name":"Shaheed Bhagat Singh College (Evening Classes), New Delhi","id":[],}
+{"name":" Fergusson College, Pune ","id":[],}
+{"name":"Degree College of Physical Education,Amravati","id":[],}
+{"name":"Shri M.V. & Smt. N.V. Virani Science College, Rajkot","id":[],}
+{"name":"V.V. Vanniaperumal College for Women, Virudhnagar","id":[],}
+{"name":"Virudhunagar Hindu Nadars Senthikumara Nadar College, Virudhnagar","id":[],}
+{"name":"St. Xavier's College, Mumbai","id":[],}
+{"name":"Goswami Ganesh Dutta S.D. College, Chandigarh","id":[],}
+{"name":"St. Joseph's College, Trichur","id":[],}
+{"name":"A.V.C. College Quaide E Milleth, Quaide E Milleth","id":[],}
+{"name":"Dr. N.G.P. Arts & Science College, Coimbatore","id":[],}
+{"name":"St Aloysius College (Autonomous), Mangalore","id":[],}
+{"name":"Sri Guru Nanak Dev Khalsa College, New Delhi","id":[],}
+{"name":"Justice Baseer Ahmed Sayeed College for Women, Chennai","id":[],}
+{"name":"Mercy College, Palakkad","id":[],}
+{"name":"Little Flower College, Trichur","id":[],}
+{"name":"K.S. Rangaswamy College of Arts and Science, Tiruchengode","id":[],}
+{"name":"MES Keveeyam College, Valanchary","id":[],}
+{"name":"Vimla College, Trichur","id":[],}
+{"name":"Government College of Arts Science and Commerce, Quepem","id":[],}
+{"name":"Holy Cross College, Kanyakumari","id":[],}
+{"name":"St. Mary's College, Trichur","id":[],}
+{"name":"Saiva Bhanu Kshatriya College, Virudhnagar","id":[],}
+{"name":"Gobi Arts and Science College, Gopi","id":[],}
+{"name":"Vivekanand College, Kolhapur","id":[],}
+{"name":"Shri Shankarlal Sundarbai Shasun Jain College for Women, Chennai","id":[],}
+{"name":"Meenakshi College for Women, Chennai","id":[],}
+{"name":"Vitthalbhai Patel and Rajrathan, P.T. Patel Science College, Anand","id":[],}
+{"name":"Srimathi D.N. Bhat Vaishnav College for Women, Kancheepuram","id":[],}
+{"name":"Kongu Arts & Science College, Erode","id":[],}
+{"name":"J.B. College, Jorhat","id":[],}
+{"name":"Nirmala College for Women, Coimbatore","id":[],}
+{"name":"Rathinam College of Arts and Science, Coimbatore","id":[],}
+{"name":"Mahendra Arts & Science College, Namakkal","id":[],}
+{"name":"Sri Ramakrishna College of Arts & Science for Women, Coimbatore","id":[],}
+{"name":"SNR Sons College, Coimbatore","id":[],}
+{"name":"St. Teresa's College, Ernakula","id":[],}
+{"name":"Sri D. Manjunatheswara College, Dakshin Kannad ","id":[],}
+{"name":"Nanded Education Society`s Science College, Nanded","id":[],}
+{"name":"Mannam Memroial N.S.S. College, Kollam","id":[],}
+{"name":"Mehr Chand Mahajan D.A.V. College for Women, Chandigarh","id":[],}
+{"name":"Hindusthan College of Arts and Science, Coimbatore","id":[],}
+{"name":"K.S.R. College of Arts and Science for Women, Namakkal","id":[],}
+{"name":"Bahauddin Govt. Science College, Junagadh","id":[],}
+{"name":"Rama Krishna Mission Vivekananda Centenary College, Rahara","id":[],}
+{"name":"S.D.M.S.M. Kalasala, Krishna","id":[],}
+{"name":"Dr.V.S.Krishna Govt. Degree College, Visakhapatnam","id":[],}
+{"name":"Symbiosis College of Arts and Commerce, Pune","id":[],}
+{"name":"S R M College of Arts and Science, Potheri","id":[],}
+{"name":"Sai College of Computer Education, Osmanabad","id":[],}
+{"name":"Assumption College, Kottayam","id":[],}
+{"name":"Gayatri Vidya Parishad College for Degree and P.G Courses (Autonomous), Visakapatnam ","id":[],}
+{"name":"Muthayammal College of Arts & Science, Namakkal","id":[],}
+{"name":"St. Josephs College for Women, (Autonomous), Visakhapatnam","id":[],}
+{"name":"Jankidevi Bajaj College of Science, Wardha","id":[],}
+{"name":"P.C. Jabin Science College, Dharwad","id":[],}
+{"name":"Govt. College, Anantapur","id":[],}
+{"name":"Nirmala College, Ernakulam","id":[],}
+{"name":"K.B.N. College, Krishna","id":[],}
+{"name":"V.S.M. College, Ramachandrapuram","id":[],}
+{"name":"J.G. College of Commerce, Hubli","id":[],}
+{"name":"Sacred Heart College, Tirupattur","id":[],}
+{"name":"Presidency College, Bengaluru","id":[],}
+{"name":"National College, Tiruchirapalli","id":[],}
+{"name":"Raja Narendralal Khan Women's College, Midnapore","id":[],}
+{"name":"Bharti Vidyapeeth`s Matoshri Bayabai Shripatrao Kadam Kanya Mahavidyalaya, Sangli","id":[],}
+{"name":"Thanthai Hans Roever College, Perambalur","id":[],}
+
+
+{"name":"National Institute of Pharmaceutical Education and Research, Mohali","id":[],}
+{"name":"University Institute of Pharmaceutical Sciences, Chandigarh","id":[],}
+{"name":"Manipal College of Pharmaceutical Sciences, Manipal","id":[],}
+{"name":"Poona College of Pharmacy, Erandwane, Pune","id":[],}
+{"name":"JSS College of Pharmacy, Mysore","id":[],}
+{"name":"Dr. Harisingh Gour Vishwavidyalaya, Sagar","id":[],}
+{"name":"Delhi Institute of Pharmaceutical Sciences and Research, New Delhi","id":[],}
+{"name":"Bombay College of Pharmacy, Mumbai","id":[],}
+{"name":"JSS College of Pharmacy, Ootacamund","id":[],}
+{"name":"I.S. F. College of Pharmacy, Moga","id":[],}
+{"name":" L. M. College of Pharmacy, Ahmedabad","id":[],}
+{"name":"Y. B. Chavan College of Pharmacy, Aurangabad","id":[],}
+{"name":"Integral University, Lucknow","id":[],}
+{"name":"Acharya Nagarjuna University College of Pharmaceutical Sciences, Guntur","id":[],}
+{"name":"N.G.S.M.Institute of Pharmaceutical Sciences, Mangalore","id":[],}
+{"name":"Maharshi Dayanand University, Rohtak","id":[],}
+{"name":"Prin.K.M.Kundnani College of Pharmacy, Mumbai","id":[],}
+{"name":"Goa College of Pharmacy, Panaji","id":[],}
+{"name":"Devi Ahilya Vishwavidyalaya, Indore","id":[],}
+{"name":"Sanjivani College of Pharmaceutical Education and Research, Kopargaon","id":[],}
+{"name":"College of Pharmacy, Madras Medical College, Chennai","id":[],}
+{"name":"Smt. Kishoritai Bhoyar College of Pharmacy, Kamptee","id":[],}
+{"name":"Guru Ghasidas Vishwavidyalaya, Bilaspur","id":[],}
+{"name":"Bharati Vidyapeeth College of Pharmacy, Kolhapur","id":[],}
+{"name":"R. C. Patel Institute of Pharmaceutical Education & Research, Shirpur","id":[],}
+{"name":"Shoolini University of Biotechnology and Management Sciences, Solan","id":[],}
+{"name":"Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research, Pune","id":[],}
+{"name":"P. E. Society's Modern College of Pharmacy, Pune","id":[],}
+{"name":"SVKM's Dr. Bhanuben Nanavati College of Pharmacy, Mumbai","id":[],}
+{"name":"Guru Jambeshwar University of Science and Technology, Hissar","id":[],}
+{"name":"Institute of Pharmaceutical Education and Research, Wardha","id":[],}
+{"name":"PSG College of Pharmacy, Coimbatore","id":[],}
+{"name":"MVP Samaj's College of Pharmacy, Nashik","id":[],}
+{"name":"Chalapathi Institute of Pharmaceutical Sciences, Guntur","id":[],}
+{"name":"Gurunanak College of Pharmacy, Nagpur","id":[],}
+{"name":"AISSMS College of Pharmacy, Pune","id":[],}
+
+
+
+
+{"name":"","id":[],}
