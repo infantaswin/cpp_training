@@ -1,6 +1,5 @@
-
 from bs4 import BeautifulSoup
-from urllib.request import Request,urlopen   
+from urllib.request import Request,urlopen
 
 inputs="view-source:https://www.scimagojr.com/journalsearch.php?"
 url=Request(inputs)
