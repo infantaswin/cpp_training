@@ -1,34 +1,24 @@
 import json
 import sys
-import re
 
-
-
-
-array={}
 input=open(sys.argv[1])
 # print(input)
 json_array=json.load(input)
-# print(json_array)
-array['name']=(json_array['name'])
-
-id=(json_array['id'])
-se=re.sub("\s\s+" , ", ", id)
-print(se)
-
-array['id']=sorted(json_array['id'])
-
-
-# print("===========================================")
-array['acronym']=(json_array['acronym'])
-array['federation']=(json_array['federation'])
-array['city']=(json_array['city'])
-array['district']=(json_array['district'])
-array['state']=(json_array['state'])
-array['country']=(json_array['country'])
-
+print(json_array)
+# array={}
+#
+# array['name']=(json_array['name'])
+# array['id']=sorted(json_array['id'])
+# # print("===========================================")
+# array['acronym']=(json_array['acronym'])
+# array['federation']=(json_array['federation'])
+# array['city']=(json_array['city'])
+# array['district']=(json_array['district'])
+# array['state']=(json_array['state'])
+# array['country']=(json_array['country'])
+#
 # print(array)
-
+#
 
 
 # with open("datas.json","w") as f:

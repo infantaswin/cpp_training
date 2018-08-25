@@ -1,12 +1,12 @@
-import re
-import sys
-import
+import json
+import Sys
+
+input=
+f = open("example", 'w')
+f1 = open("sample_number.txt", 'r')
 
 
-def number(input)
+f.write(json.dumps(json.loads(f), indent=1))
 
-    input=open(sys.argv[1])
-    n=number(input)
-    nu=re.sub("\i+" , ", ", input)
 
-print(input)
+f.close()

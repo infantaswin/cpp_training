@@ -1,0 +1,486 @@
+2187160  Turku Centre for Biotechnology, Turku University and Åbo Akademi University
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8631506 |        4380079 |      2187160
+
+2015525  Turku Centre for Biotechnology, University of Turku and Abo Academy University
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8220408 |         483093 |      2015525
+
+2187829  Turku Centre for Biotechnology, University of Turku and Åbo Akademi University, Biocity
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8632984 |        4380428 |      2187829
+
+2083874  Turku Centre for Biotechnology, University of Turku and Åbo Akademi University, P.O.Box 123
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8374346 |        4328913 |      2083874
+
+966484   Turku Centre for BiotechnologyUniversity of Turku and Åbo Akademi UniversityTurku20520Finland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+3331853 |        1423204 |       966484
+
+930266   Turku Centre for BiotechnologyUniversity of Turku and Åbo Akademi UniversityTurkuFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+3209345 |        1376365 |       930266
+
+3328109  Turku Centre for Biotechnology University of Turku and Åbo Akademi University Tykistökatu 6 20520 Turku Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+13286439 |        7746067 |      3328109
+
+2290653  Turku Centre for Biotechnology, University of Turku and Åbo Akademi University, Tykistökatu 6B, BioCity
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8838376 |        4430972 |      2290653
+
+2114418  Turku Centre for Biotechnology, University of Turku and VTT
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8446462 |         954792 |      2114418
+
+2022110  Turku PET Centre, Turku University Hospital and University of Turku
+
+
+academicdevel=# Select * from library_publication_institutes where institute_id=2022110;
+ id | publication_id | institute_id
+----+----------------+--------------
+(0 rows)
+
+3178458  Turku PET Centre Turku University Hospital and University of Turku Turku Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+12242324 |        6666913 |      3178458
+13336537 |        7773045 |      3178458
+
+84629    VTT Medical Biotechnology and University of Turku
+
+id   | publication_id | institute_id
+--------+----------------+--------------
+198577 |         142563 |        84629
+
+2178749  VTT Medical Biotechnology and University of Turku, Centre for Biotechnology
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8612010 |        4372972 |      2178749
+
+1052482  VTT Technical Research Center of Finland and University of Turku
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+3639956 |        1548331 |      1052482
+
+92328    VTT Technical Research Centre and University of Turku
+
+id   | publication_id | institute_id
+--------+----------------+--------------
+218328 |         154100 |        92328
+237867 |         167964 |        92328
+419645 |         249342 |        92328
+581272 |         323953 |        92328
+
+42998    VTT Technical Research Centre of Finland and University of Turku
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+ 92241 |          59040 |        42998
+387774 |         235689 |        42998
+1722509 |         801185 |        42998
+1820561 |         842621 |        42998
+6067729 |        2887236 |        42998
+8375776 |        4329345 |        42998
+9669356 |        4880230 |        42998
+
+2189559  VTT Technical Research Centre of Finland and University of Turku, Medical Biotechnology
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8636818 |        4381278 |      2189559
+
+2083654  VTT Technical Research Centre of Finland, Medical Biotechnology and University of Turku Centre for Biotechnology
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8373976 |        4328778 |      2083654
+
+1267073  Department of Clinical Physiology and Nuclear MedicineTurku University HospitalTurkuFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+4293071 |        1781014 |      1267073
+
+1203933  Department of Clinical Physiology and Nuclear MedicineTurku University HospitalTurkuFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+4108231 |        1716244 |      1203933
+
+1232825  Department of Pediatrics and Adolescent MedicineTurku University HospitalTurkuFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+4192907 |        1745691 |      1232825
+
+1276490  Division of Internal Medicine and CardiologyTurku University HospitalTurkuFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+4321163 |        1790537 |      1276490
+
+1257607  Department of Paediatrics and Adolescent MedicineTurku University HospitalTurkuFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+4265800 |        1771781 |      1257607
+
+1127867  Turku Centre for BiotechnologyUniversity of Turku and Åbo Akademi UniversityFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+ 3886415 |        1637393 |      1127867
+
+1165857  Department of Clinical Physiology and Nuclear MedicineTurku University HospitalTurkuFinland
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+4005876 |        1679581 |      1165857
+
+1958963  Auria Biobank, University of Turku and Turku University Hospital
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8116007 |        1476740 |      1958963
+
+3178621  Auria Biobank University of Turku and Turku University Hospital Turku Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+12242539 |        6666981 |      3178621
+
+3263814  Cardiorespiratory Research Unit and Turku University Central Hospital and Wallac Oy
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+12495732 |        6873161 |      3263814
+
+2956184  Center for Functional Materials and Department of Natural Sciences Åbo Akademi University Turku 20500 Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+11618371 |        6149734 |      2956184
+
+1950016  Centre for Biotechnology, University of Turku and Åbo Akademi University
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8101526 |         365422 |      1950016
+8611641 |        4372768 |      1950016
+8645104 |        1253684 |      1950016
+8845733 |        4433877 |      1950016
+8848344 |        4434841 |      1950016
+8851618 |        4436115 |      1950016
+8857577 |        4438573 |      1950016
+
+747935   Centre for Biotechnology   University of Turku and Åbo Akademi University   Turku
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+2548555 |        1126086 |       747935
+
+2151401  Centre for Biotechnology, University of Turku and Åbo Akademi University, Tykistökatu 6A
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8544303 |        4352207 |      2151401
+
+892804   Hospital District of Southwest Finland and Turku University Hospital
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+3076193 |        1326956 |       892804
+
+3263816  Clinical Chemistry Turku University Central Hospital and Wallac Oy
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+12495734 |        6873161 |      3263816
+
+3426891  Department of Acute and Digestive Surgery Turku University Hospital Turku Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+13519435 |        7867660 |      3426891
+
+3332977  Department of Acute Internal Medicine Turku University Hospital and University of Turku Turku Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+13297135 |        7755259 |      3332977
+
+3137043  Department of Anaesthesia and Intensive Care Medicine Turku University Hospital Turku Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+ 12184869 |        6647153 |      3137043
+
+2288106  Department of Anaesthesiology and Intensive Care, Turku University Central Hospital and University of Turku
+
+id    | publication_id | institute_id
+---------+----------------+--------------
+8833155 |        4428936 |      2288106
+
+3137232  Department of Anaesthesiology Intensive Care Emergency Care and Pain Medicine University of Turku and Turku University Hospital Turku Finland.
+
+id    | publication_id | institute_id
+----------+----------------+--------------
+12185076 |        6647263 |      3137232
+12185201 |        6647315 |      3137232
+
+3227649  Department of Anesthesia and Intensive Care Medicine Turku University Hospital Turku Finland.
+2261218  Department of Biochemistry and Food Chemistry, Turku University Central Hospital
+3188571  Department of Child Psychiatry Faculty of Medicine University of Turku and Turku University Hospital Turku Finland.
+2058819  Department of Child Psychiatry, Turku University and Turku University Hospital
+3189369  Department of Children and Adolescents Turku University Hospital Turku Finland.
+1965409  Department of Clinical Chemistry and TYKSLAB, University of Turku and Turku University Central Hospital
+2186775  Department of Clinical Medicine, Biostatistics, University of Turku and Turku University Hospital
+400730   Department of Clinical Physiology and Nuclear Medicine, Turku University Hospital,
+2162633  Department of Clinical Physiology and Nuclear Medicine, Turku University Hospital, and Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku
+1009112  Department of Clinical Physiology and Nuclear MedicineTurku University HospitalTurkuFinland
+573990   Department of Clinical Physiology and Nuclear Medicine, University of Turku and Turku University Hospital,
+2277797  Department of Clinical Physiology Nuclear Medicine and Positron Emission Tomography, Turku University Central Hospital
+2365149  Department of Clinical Physiology, Turku University Hospital and Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku
+2126063  Department of Clinical Physiology, University of Turku and Turku University Central Hospital
+3379500  Department of Clinical Virology Turku University Hospital and Department of VirologyUniversity of TurkuTurkuFinland.
+2298318  Department of Dermatology, Department of Medical Biochemistry and Molecular Biology, and MediCity Research Laboratory, University of Turku
+2289557  Department of Dermatology, Turku University Central Hospital   Department of Medical Biochemistry and MediCity Research Laboratory, University of Turku
+189945   Department of Dermatology, University of Turku and Turku University Hospital
+2223965  Department of Diagnostic Radiology, University of Turku and Turku University Hospital
+2058345  Department of Digestive Surgery, University of Turku and Turku University Hospital
+3341330  Department of Emergency Medicine and Services Helsinki University Hospital Turku Finland.
+2025673  Department of Medical Microbiology and Immunology, Diagnostic and Related Services of Turku University Hospital
+2387251  Department of Medical Microbiology, Turku University, Turku, Finland and Institut d'Embryologie du C.N.R.S. et du Collège de Franc
+3045765  Department of Medicine and Gastroenterology University of Turku and Turku University Hospital Turku Finland.
+2251269  Department of Medicine, Divisions of Hematology and Infectious Diseases, Turku University Central Hospital
+2186774  Department of Medicine, Institute of Clinical Medicine, University of Turku and Turku University Hospital
+2132282  Department of Medicine, University of Turku and Division of Medicine, Turku University Hospital
+400725   Department of Medicine, University of Turku and Turku University Hospital,
+3457083  Department of Nursing Science University of Turku and Turku University Hospital Turku Finland.
+1930690  Department of Obstetrics and Gynaecology, Turku University Central Hospital
+663472   Department of Obstetrics and Gynaecology, Turku University Hospital
+3044851  Department of Obstetrics and Gynaecology Turku University Hospital Turku Finland.
+3404659  Department of Obstetrics and Gynaecology Turku University Hospital University of Turku Turku Finland.
+1948054  Department of Obstetrics and Gynecology, Turku University Central Hospital
+3044615  Department of Obstetrics and Gynecology Turku University Central Hospital TurkuFinland.
+3043867  Department of Obstetrics and Gynecology Turku University Central HospitalTurku Finland.
+1948357  Department of Obstetrics and Gynecology, Turku University Hospital
+2186773  Department of Obstetrics and Gynecology, Turku University Hospital and University of Turku
+3044974  Department of Obstetrics and Gynecology Turku University Hospital and University of Turku Turku Finland.
+3044234  Department of Obstetrics and Gynecology Turku University Hospital and University of TurkuTurku Finland.
+3045903  Department of Obstetrics and Gynecology Turku University Hospital Turku Finland.
+3044752  Department of Obstetrics and Gynecology Turku University Hospital TurkuFinland.
+1947229  Department of Oncology and Radiotherapy, Turku University Central Hospital
+2247409  Department of Oncology and Radiotherapy, Turku University Central Hospital, PL 52
+441321   Department of Oncology and Radiotherapy, Turku University Hospital
+3457396  Department of Otorhinolaryngology ‐ Head and Neck Surgery Turku University Hospital Turku Finland.
+966488   Department of Oncology and RadiotherapyUniversity of Turku and Turku University HospitalTurku20521Finland
+3324287  Department of Oncology University of Turku and Turku University Hospital Turku Finland.
+2133290  Department of Ophthalmology, University of Turku and Turku University Hospital
+3184916  Department of Ophthalmology University of Turku and Turku University Hospital Turku Finland.
+2051961  Department of Oral and Maxillofacial Surgery, Institute of Dentistry, University of Turku and Turku University Hospital
+441164   Department of Otorhinolaryngology, Head and Neck Surgery and Department of Medical Biochemistry and Genetics, Turku University Central Hospital
+2097246  Department of Otorhinolaryngology, Head and Neck Surgery, Turku University and Turku University Hospital
+2292124  Department of Otorhinolaryngology – Head and Neck Surgery, Turku University Central Hospital
+591083   Department of Otorhinolaryngology – Head and Neck Surgery, Turku University Hospital, University of Turku
+3188507  Department of Paediatrics and Adolescent Medicine Turku University Hospital and University of Turku Turku Finland.
+3189460  Department of Paediatrics and Adolescent Medicine Turku University Hospital Turku Finland.
+3188925  Department of Paediatrics and Adolescent Medicine University of Turku and Turku University Hospital Turku Finland.
+3261446  Department of Paediatrics and Central Laboratory of Turku University Central Hospital
+1983345  Department of Paediatrics, Turku University Hospital and University of Turku
+1236519  Department of Paediatric Orthopaedic Surgery and Department of Orthopaedic Surgery, University of Turku and Turku University Hospital
+1236521  Department of Paediatric Orthopaedic Surgery, University of Turku and Turku University Hospital
+1056831  Department of PathologyTurku University and Turku University HospitalTurkuFinland
+441119   Department of Pathology, University of Turku and Turku University Central Hospital
+1958965  Department of Pathology, University of Turku and Turku University Hospital
+3352291  Department of PathologyUniversity of Turku and Turku University HospitalTurku Finland.
+849978   Department of PathologyUniversity of Turku and Turku University HospitalTurkuFinland
+2198780  Department of Pediatric Neurology, University of Turku and Turku University Hospital
+3188424  Department of Pediatric Neurology University of Turku and Turku University Hospital Turku Finland.
+3193054  Department of Pediatrics and Adolescent Medicine Turku University Hospital and University of Turku Turku Finland.
+3190033  Department of Pediatrics and Adolescent Medicine Turku University Hospital Turku Finland.
+3189286  Department of Pediatrics and Adolescent Medicine University of Turku and Turku University Hospital Turku Finland.
+2036555  Department of Pediatrics, Finnish Medical Birth Register and Register of Congenital Malformations, Turku University Hospital
+319861   Department of Pediatrics, Turku University Hospital, and Turku University
+3187417  Department of Pediatrics Turku University Hospital and Turku University Turku Finland.
+2199740  Department of Pediatrics, Turku University Hospital and University of Turku
+2694191  Department of Pediatrics Turku University Hospital and University of Turku Turku Finland.
+833458   Department of PediatricsTurku University Hospital and University of TurkuTurkuFinland
+2126898  Department of Pediatrics, University of Turku and Turku University Hospital
+3176452  Department of Pediatrics University of Turku and Turku University Hospital Turku Finland.
+930273   Department of PediatricsUniversity of Turku and Turku University HospitalTurkuFinland
+3187874  Department of Pediatrics University of Turku and University Hospital Turku Finland.
+3188423  Department of Pediatric Surgery University of Turku and Turku University Hospital Turku Finland.
+3172533  Department of Perioperative Services Intensive Care and Pain Medicine Turku University Hospital Turku Finland.
+3178268  Department of Physical and Rehabilitation Medicine Turku University Hospital and University of Turku Turku Finland.
+2220775  Department of Physiology, Institute of Biomedicine, University of Turku, and Department of Pediatrics, Turku University Hospital
+3188422  Department of Psychology University of Turku and Turku University Hospital Turku Finland.
+124548   Department of Public Health and Turku University Hospital
+3152798  Department of Public Health and Turku University Hospital Turku Finland.
+3146193  Department of Public Health University of Turku and Turku University Hospital Turku Finland.
+899898   Department of Public HealthUniversity of Turku and Turku University HospitalTurkuFinland
+712134   Department of Pulmonary Diseases and Allergology, Turku University Hospital and University of Turku
+2201515  Department of Radiology, and Turku PET Center, University of Turku, and Turku University Hospital
+1944886  Department of Radiology, Medical Imaging Centre of Southwest Finland, University of Turku and Turku University Hospital
+2058344  Department of Radiology, University of Turku and Turku University Hospital
+2201980  Department of Radiology, University of Turku and Turku University Hospital, Turku PET Center
+1947203  Department of Radiotherapy and Oncology, Turku University Central Hospital
+2261740  Department of Radiotherapy and Oncology, Turku University Hospital
+2053308  Department of Urology, University of Turku and Turku University Hospital
+2348738  Department of Vascular Surgery, Turku University Hospital and University of Turku
+3421178  Department of Vascular Surgery Turku University Hospital and University of Turku Turku Finland.
+3189370  Department of Virology University of Turku and Department of Clinical Virology Turku University Hospital Turku Finland.
+3431519  Departments of Child Neurology and General Practice University of Turku and Turku University Hospital Turku Finland.
+3261416  Departments of Paediatrics and Internal Medicine and Central Laboratory Turku University Hospital SF‐20520 Turku 52 Finland.
+2397273  Departments of Pediatrics and Radiology, Turku University Central Hospital
+3263813  Departments of Pediatrics Turku University Central Hospital and Wallac Oy
+2345638  Departments of Physiology and Pediatrics, University of Turku and Turku University Hospital
+3197858  Departments of Public Health and Child Neurology University of Turku and Turku University Hospital Turku Finland.
+2365832  Division of Clinical Neurosciences, Turku University Hospital and University of Turku
+3178404  Division of Clinical Neurosciences Turku University Hospital and University of Turku Turku Finland.
+2907649  Division of Clinical Neurosciences University of Turku and Turku University Hospital Turku Finland.
+3426883  Division of Digestive Surgery and Urology Turku University Hospital Turku Finland.
+3341329  Division of Internal Medicine and Cardiology Turku University Hospital Turku Finland.
+2162632  Division of Medicine, Turku University Hospital, and Department of Medicine, University of Turku
+2929804  Division of Medicine Turku University Hospital and University of Turku Finland.
+1028998  Turku University Hospital and University of Turku
+3227594  Emergency Care and Pain Medicine of Turku University Hospital
+3227860  Emergency Care and Pain Medicine Turku University Hospital Turku Finland.
+3136821  Emergency Care and Pain Medicine University of Turku and Turku University Hospital Turku Finland.
+3138750  Emergency Medical Services Department of Emergency Medicine University of Turku and Turku University Hospital Turku Finland.
+3138446  Emergency Medical Services Turku University Hospital and University of Turku Turku Finland.
+3227680  Emergency Medicine and Pain Clinic Turku University Hospital Turku Finland.
+815155   Environmental and Marine BiologyÅbo Akademi University20520TurkuFinland
+3472028  Faculty of Science and Engineering Åbo Akademi University Turku Finland.
+2931851  Faculty of Science and Engineering Cell Biology Åbo Akademi University FI‐20520 Turku Finland.
+2931860  Faculty of Science and Engineering Computer Science Åbo Akademi University FI‐20500 Turku Finland.
+2931855  Faculty of Science and Engineering Natural Materials Technology Åbo Akademi University FI‐20500 Turku Finland.
+2931854  Faculty of Science and Engineering Pharmaceutical Sciences Laboratory Åbo Akademi University FI‐20520 Turku Finland.
+2931859  Faculty of Science and Engineering Physics Åbo Akademi University FI‐20500 Turku Finland.
+2931858  Faculty of Science and Engineering Polymer Technologies Åbo Akademi University FI‐20500 Turku Finland.
+2931856  Faculty of Science and Engineering Structural Bioinformatics Laboratory Åbo Akademi University FI‐20520 Turku Finland.
+3189159  Finnish Medical Birth Register and Register of Congenital Malformations Department of Pediatrics Turku University Hospital Turku Finland.
+191331   Finnish Radiation and Nuclear Safety Authority and Dept. of Radiation Oncology Turku University Hospital
+3251250  From the Neurological Clinic of the University of Turku (Professor Lauri Saarnio) and Kupittaa Mental Hospital (Kosti Kallio
+3332976  Heart Center Turku University Hospital and University of Turku Turku Finland.
+3249394  Helsinki and Turku University Central Hospitals
+3227398  Helsinki University Central Hospital and Turku University Hospital
+1994282  Hospital District of Southwest Finland, Diagnostic and Related Services of Turku University Hospital, TYKS Microbiology and Genetics, Department of Medical Genetics
+3469598  Immunogenetics Laboratory University of Turku and Turku University Hospital Turku Finland.
+2954053  Industrial Chemistry and Reaction Engineering Johan Gadolin Process Chemistry Centre Åbo Akademi University Biskopsgatan 8 Åbo‐Turku FI 20500 Finland.
+2954055  Industrial Chemistry & Reaction Engineering Johan Gadolin Process Chemistry Centre Åbo Akademi University FI‐20500 Åbo‐Turku Finland.
+2293338  Institute of Biomedicine, Department of Anatomy, and MediCity Research Laboratory, University of Turku
+1960151  Institute of Biomedicine, Department of Pathology and Forensic Medicine, University of Turku and Turku University Hospital
+991617   Intensive Care and Pain MedicineUniversity of Turku and Turku University HospitalTurkuFinland
+2264285  Medical Biotechnology, VTT Technical Research Center of Finland and University of Turku
+2189762  Medical Biotechnology, VTT Technical Research Centre of Finland, and Center for Biotechnology, University of Turku and Åbo Akademi University
+2565817  Heart Centre Turku University Hospital and University of Turku
+3263815  Medicine andTurku University Central Hospital and Wallac Oy
+3184573  MediCity Research Laboratory University of Turku and Turku University Hospital Turku Finland.
+3193205  Microbiology and Genetics Department Turku University Hospital Turku Finland.
+573987   Paavo Nurmi Centre, Sports & Exercise Medicine Unit, Department of Physical Activity and Health, University of Turku and Turku University Hospital,
+3189927  Pediatric Neurology University of Turku and Turku University Hospital of Turku TurkuFinland.
+2156896  Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku and Turku University Central Hospital
+2057557  Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku and Turku University Hospital
+3190698  Research Centre of Applied and Preventive Cardiovascular Medicine University of Turku and Turku University Hospital Turku Finland.
+2001393  Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku, Turku University Hospital
+2092216  Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku, Turku University Hospital, Department of Clinical Physiology
+2127550  The Department of Clinical Physiology and Nuclear Medicine, Turku University Hospital
+2259023  The Joint Clinical Biochemistry Laboratory of the University of Turku, Turku University Central Hospital and Wallac Ltd.
+1970553  Turku Center of Biotechnology, University of Turku and Åbo Akademi University
+2155810  Turku Centre for Biotechnology, Åbo Akademi and Turku University
+2180883  Turku Centre for Biotechnology, Åbo Akademi University and the University of Turku
+2059156  Turku Centre for Biotechnology, Åbo Akademi University and University of Turku
+2931852  Turku Centre for Biotechnology Åbo Akademi University and University of Turku FI‐20520 Turku Finland.
+2266667  Turku Immunology Centre, Department of Virology University of Turku, and Department of Neurology, Turku University Hospital
+2055856  Turku PET Centre, University of Turku and Turku University Central Hospital
+643689   Turku PET Centre, University of Turku and Turku University Hospital
+3190697  Turku PET Centre University of Turku and Turku University Hospital Turku Finland.
+3104407  Turku Positron Emission Tomography Centre and Turku University Hospital
+2169942  Turku Positron Emission Tomography (PET) Centre, University of Turku and Turku University Hospital
+892080   Turku University and University Hospital
+924415   Turku University and University Hospital of Turku
+3223162  Turku University Central Hosntlal
+3227016  Turku University Central Hospital and National Public Health Institute
+1550062  Turku University Central Hospital and PerkinElmer Finland Ltd.
+3226356  Turku University Central Hospital and Research Laboratory
+2557602  Turku University Central Hospital   and the National Public Health Institute
+673354   Turku University Central Hospital and Turku University
+2209246  Turku University Central Hospital and Turku University, PO Box 52 FI-20521
+299023   Turku University Central Hospital and University of Turku
+137385   Turku University Central Hospital and University of TurkuFinland
+3129805  Turku University Central Hospital and University of Turku. Turku. Finland.
+3265025  Turku University Central Hospital and Wallac Oy
+1001920  Turku University Hospital and Åbo Akademi University
+1264867  Turku University Hospital and the University of Turku
+1519880  Turku University Hospital and Turku PET Centre
+22653    Turku University Hospital and Turku University
+114745   Turku University Hospital and Turku University Hämeentie 11
+164218   Turku University Hospital and University of Turku
+604032   Turku University Hospital and University of TurkuTurku
+3188852  Turku University Hospital and University of Turku Turku Finland.
+1072980  Turku University Hospital and University of TurkuTurkuFinland
+2211227  Turku University Hospital, Division of Medicine, Department of Rheumatology, and University of Turku
+4806     Turku University Hospital, Turku
+3178740  Tyks Microbiology and Genetics Department of Medical Genetics Turku University Hospital Turku Finland.
+2357748  TYKS-Sapa, Microbiology and Genetics Service Area, Microbiology Branch, Turku University Hospital
+3154128  The Finnish Microarray and Sequencing Centre Turku Centre for Biotechnology University of Turku and Åbo Akademi University Tykistökatu 6 FI‐20520 Turku Finland.
+3247734  University Hospital of Kuopio and University Hospital of Turku
+3131181  University of Turku and Åbo Academi University
+1285402  University of Turku and Abo Academy
+305538   University of Turku and Abo Academy University
+654123   University of Turku and Åbo Akademi
+353488   University of Turku and Åbo Akademi
+38826    University of Turku and Åbo Akademi University
+1147152  University of Turku and ÅboAkademi University
+48009    University of Turku and Åbo Akademi University
+2527412  University of Turku and Åbo Akademi UniversityFinland.
+1028587  University of Turku and Åbo Akademi UniversityTurku
+114746   University of Turku and Åbo Akademi University Tykistökatu 6
+676845   University of Turku and City of Turku
+2204870  University of Turku and Faculty of Science and Engineering, Åbo Akademi University
+2441630  University of Turku and Hospital District of Helsinki and Uusimaa
+1722678  University of Turku and Mental Health Centre of Turku
+548457   University of Turku and National Institute for Health and Welfare
+394159   University of Turku and National Institute of Health and Welfare
+2454309  University of Turku and National Public Health Institute
+3272276  University of Turku and Paavo Nurmi Centre
+468080   University of Turku and Primary Health Care Unit
+3267434  University of Turku and the Regional Hospital of Rauma
+21582    University of Turku and Turku Centre for Computer Science (TUCS)
+1258788  University of Turku and Turku Clinical Research CentreTurku University HospitalTurkuFinland
+2920740  University of Turku and Turku University Centre for Materials and Surfaces (MatSurf) FI‐20014 Turku (Finland).
+965530   University of Turku and Turku Hospital
+16488    University of Turku and Turku University Hospital
+183013   University of Turku and Turku UniversityHospital
+831089   University of Turku and TurkuUniversity Hospital
+326331   University of Turku and Turku University Hospital and Finnish Institute of Occupational Health
+2213212  University of Turku and Turku University Hospital, Department of Child Psychiatry
+2213213  University of Turku and Turku University Hospital, Department of Psychiatry
+322953  University of Turku and Turku University HospitalTurku
+3187721  University of Turku and Turku University Hospital Turku Finland.
+74065  University of Turku and University Hospital
+627428  University of Turku and VTT
