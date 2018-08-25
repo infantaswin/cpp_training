@@ -38,7 +38,7 @@ def update_vendor(name, id):
 
 def show_tables():
     #""" update vendor name based on the vendor id """
-    sql_sample= """SELECT * from library_publication_institutes where institute_id = 899"""
+    sql_sample= """SELECT * FROM sample ORDER BY id"""
     conn = None
     updated_rows = 0
     try:
@@ -54,7 +54,16 @@ def show_tables():
         cur.execute(sql_sample)
         print('executed')
         for table in cur.fetchall():
-            print(table)
+            if table[4]==24:
+                # print(table)
+                if table[3]==10:
+                    print(table)
+                #     if table[3]==variable2:
+                #         "update_2_var"
+                #     else
+                #         "auto_inctreament2"
+                # else
+                #     "auto_increament"
             # tab = table.split(',')
             # ta = tab[1]
             # print(ta)
